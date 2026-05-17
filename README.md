@@ -4,6 +4,7 @@
 
 该生成器让你直接获得图片进行自印
 
+本程序部分代码逻辑参考[BHYG](https://github.com/ZianTT/BHYG)
 
 ## 支持游戏：
 
